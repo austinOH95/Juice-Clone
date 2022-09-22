@@ -3,7 +3,7 @@ server:
   basePath: ''
 application:
   domain: juice-sh.op
-  name: 'CodeCraft Works Shop'
+  name: 'Codecraft Works Shop'
   logo: Codecraft - Codey.svg
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
