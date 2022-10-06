@@ -3,7 +3,11 @@ server:
   basePath: ''
 application:
   domain: juice-sh.op
+<<<<<<< HEAD
   name: 'Codecraft Works Store'
+=======
+  name: 'Codecraft Works Shop'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
   logo: Codecraft - Codey.svg
   favicon: favicon_js.ico
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
@@ -87,6 +91,10 @@ hackingInstructor:
 products:
   -
     name: 'Intro to Coding w/ Scratch'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 9-11, Start Date 10/3/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     price: 190.00
     deluxePrice: 150.99
     limitPerUser: 5
@@ -96,6 +104,10 @@ products:
       - { text: 'One of my favorites!', author: admin }
   -
     name: 'Advanced Scratch Projects'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 9-11, Start Date 10/3/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
     price: 2.99
     deluxePrice: 2.49
@@ -104,6 +116,10 @@ products:
       - { text: 'y0ur f1r3wall needs m0r3 musc13', author: uvogin }
   -
     name: 'Intro to Machine Learning with Scratch'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 9-11, Start Date 10/4/22. '
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Now with even more exotic flavour.'
     price: 190.00
     image: eggfruit_juice.jpg
@@ -111,11 +127,19 @@ products:
       - { text: 'I bought it, would buy again. 5/7', author: admin }
   -
     name: 'Intro to Machine Learning with Scratch'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 12-14, Start Date 10/4/22. '
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Made from blended Raspberry Pi, water and sugar.'
     price: 190.00
     image: raspberry_juice.jpg
   -
     name: 'Roblox Game Development'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 9-11, Start Date 10/4/22.'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Sour but full of vitamins.'
     price: 190.00
     deluxePrice: 1.99
@@ -123,6 +147,10 @@ products:
     image: lemon_juice.jpg
   -
     name: 'Roblox Game Development'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 12-14, Start Date 10/4/22.'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Hackers love it the most.'
     price: 190.00
     image: banana_juice.jpg
@@ -130,29 +158,49 @@ products:
       - { text: 'Fry liked it too.', author: bender }
   -
     name: 'Codecraft Works T-Shirt'
+<<<<<<< HEAD
+=======
+    # description2: ''
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Real fans wear it 24/7!'
     price: 19.95
     limitPerUser: 5
     image: fan_shirt.jpg
   -
     name: 'Codecraft Works CTF Girlie-Shirt'
+<<<<<<< HEAD
+=======
+    # description2: ''
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'For serious Capture-the-Flag heroines only!'
     price: 18.99
     image: fan_girlie.jpg
   -
     name: 'Intro to HTML & CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 9-11, Start Date 10/5/22.'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Build up skills beyond using F12.'
     price: 190.00
     image: orange_juice.jpg
     urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
   -
     name: 'Intro to HTML & CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 12-14, Start Date 10/5/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Level 1, Ages 12-14, Start Date 10/5/22.'
     price: 190.00
     image: undefined.jpg
     useForChristmasSpecialChallenge: true
   -
     name: 'Intro to HTML & CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 15-17, Start Date 10/5/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Contains a magical collection of the rarest fruits gathered from all around the world, like Cherymoya Annona cherimola, Jabuticaba Myrciaria cauliflora, Bael Aegle marmelos... and others, at an unbelievable price! <br/><span style="color:red;">This item has been made unavailable because of lack of safety standards.</span>'
     price: 190.00
     image: undefined.jpg
@@ -161,32 +209,56 @@ products:
       - eurogium edule
   -
     name: 'Intro to HTML & CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 1, Ages 18 and older, Start Date 10/5/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Die-cut sticker with the official 2015/2016 logo. By now this is a rare collectors item. <em>Out of stock!</em>'
     price: 190.00
     image: sticker.png
     deletedDate: '2017-04-28'
   -
     name: 'Creative CSS Applications'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 9-11, Start Date 10/6/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Upgrade your clothes with washer safe <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">iron-ons</a> of the OWASP Juice Shop or CTF Extension logo!'
     price: 190.00
     image: iron-on.jpg
   -
     name: 'Creative CSS Applications'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 12-14, Start Date 10/6/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Your fridge will be even cooler with these OWASP Juice Shop or CTF Extension logo <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">magnets</a>!'
     price: 190.00
     image: magnets.jpg
   -
     name: 'Creative CSS Applications'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 15-17, Start Date 10/6/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Massive decoration opportunities with these OWASP Juice Shop or CTF Extension <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">sticker pages</a>! Each page has 16 stickers on it.'
     price: 190.00 
     image: sticker_page.jpg
   -
     name: 'Creative CSS Applications'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 2, Ages 18 and older, Start Date 10/6/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Super high-quality vinyl <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">sticker single</a> with the OWASP Juice Shop or CTF Extension logo! The ultimate laptop decal!'
     price: 190.00 
     image: sticker_single.jpg
   -
     name: 'Positioning with CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 3, Ages 9-11, Start Date 10/7/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Get one of these <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">temporary tattoos</a> to proudly wear the OWASP Juice Shop or CTF Extension logo on your skin! If you tweet a photo of yourself with the tattoo, you get a couple of our stickers for free! Please mention <a href="https://twitter.com/owasp_juiceshop" target="_blank"><code>@owasp_juiceshop</code></a> in your tweet!'
     price: 190.00
     image: tattoo.jpg
@@ -194,6 +266,10 @@ products:
       - { text: 'I straight-up gots nuff props fo''these tattoos!', author: rapper }
   -
     name: 'Positioning with CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 3, Ages 12-14, Start Date 10/7/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Black mug with regular logo on one side and CTF logo on the other! Your colleagues will envy you!'
     price: 190.00 
     image: fan_mug.jpg
@@ -204,6 +280,10 @@ products:
     image: fan_hoodie.jpg
   -
     name: 'Positioning with CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 3, Ages 15-17, Start Date 10/7/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: '4x3.5" embroidered patch with velcro backside. The ultimate decal for every tactical bag or backpack!'
     price: 190.00 
     quantity: 5
@@ -214,11 +294,19 @@ products:
       - { text: 'Looks so much better on my uniform than the boring Starfleet symbol.', author: jim }
   -
     name: 'Positioning with CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 3, Ages 18 and older, Start Date 10/7/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Harvested and manufactured in the Black Forest, Germany. Can cause hyperactive behavior in children. Can cause permanent green tongue when consumed undiluted.'
     price: 190.00 
     image: woodruff_syrup.jpg
   -
     name: 'Advanced Changes with CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 4, Ages 9-11, Start Date 10/10/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Looks poisonous but is actually very good for your health! Made from green cabbage, spinach, kiwi and grass.'
     price: 190.00 
     image: green_smoothie.jpg
@@ -226,6 +314,10 @@ products:
       - { text: 'Fresh out of a replicator.', author: jim }
   -
     name: 'Advanced Changes with CSS'
+<<<<<<< HEAD
+=======
+    # description2: 'Level 4, Ages 12-14, Start Date 10/10/22'
+>>>>>>> 259ec47d3c7404a0fc1428da3b584b5267096b0e
     description: 'Juice of the <em>Cydonia oblonga</em> fruit. Not exactly sweet but rich in Vitamin C.'
     price: 190.00 
     image: quince.jpg
